@@ -3,9 +3,7 @@
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 - 🌱 I’m currently learning **Web development,**
 
-- 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/ankesh-kumawat
-- -985362310?utm_source=share&utm_campaign=share
-- _via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/ankesh-kumawat-985362310?
 - 💬 Ask me about **HTML,CSS,C**
 
 - 📫 How to reach me **ankeshkumawat155@gmail.com**
