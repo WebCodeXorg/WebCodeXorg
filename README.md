@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankesh Kumawat</h1>
+  <h1 align="center">Hi 👋, I'm Ankesh Kumawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="100%" align="top" alt="">
 - 🌱 I’m currently learning **Web development,**
@@ -25,3 +25,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WebCodeXorg&" alt="WebCodeXorg" /></p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=WebCodeXorg&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=WebCodeXorg&icon=0&color=0)](https://visitcount.itsvg.in)
